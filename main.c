@@ -9,8 +9,8 @@ int main()
 	5\n\
 	4\n\
 	3\n\
-	2 P P P P P P P P\n\
-	1 R K B K Q B K R\n\
-	  a b c d e f g h");
+	2 p p p p p p p p\n\
+	1 r n b k q b n r\n\
+	  a b c d e f g h\n");
 	return 0;
 }
